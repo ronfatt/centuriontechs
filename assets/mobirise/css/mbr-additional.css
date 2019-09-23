@@ -912,6 +912,10 @@ section.lazy-placeholder:after {
 .cid-rCL6sUOVLj .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rCL6sUOVLj H2 {
+  text-align: center;
+  color: #767676;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1294,7 +1298,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rCIsOGmT27 {
-  background-image: url("../../../assets/images/mbr-1920x1279.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1279-min-1920x1279.jpg");
 }
 .cid-rCItQqBxaj {
   padding-top: 90px;
@@ -1911,7 +1915,7 @@ section.lazy-placeholder:after {
 .cid-rCIvWtpc71 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280-min-1920x1280.jpg");
 }
 .cid-rCIvWtpc71 .mbr-section-subtitle,
 .cid-rCIvWtpc71 .mbr-text {
@@ -2423,7 +2427,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1080-min-1920x1080.jpg");
 }
 .cid-rCIioKDkxf {
   padding-top: 60px;
@@ -2472,15 +2476,6 @@ section.lazy-placeholder:after {
   display: none;
   transition: opacity .3s;
 }
-.cid-rCIofyHYkK .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
 .cid-rCIofyHYkK .card-wrapper .card-img img {
   width: 100%;
 }
@@ -2506,14 +2501,8 @@ section.lazy-placeholder:after {
   display: block !important;
   opacity: 0;
 }
-.cid-rCIofyHYkK .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rCIofyHYkK .card-img:hover .mbr-overlay {
   opacity: .5;
-}
-.cid-rCIofyHYkK .card-img:hover .mbr-section-btn {
-  opacity: 1;
 }
 .cid-rCLdLtRGqb {
   padding-top: 75px;
@@ -2597,7 +2586,7 @@ section.lazy-placeholder:after {
 .cid-rCLjdOFWBd {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/ministry-of-economy-and-finance-994x568.png");
+  background-image: url("../../../assets/images/ministry-of-economy-and-finance-min-994x568.png");
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
