@@ -2482,6 +2482,18 @@ section.lazy-placeholder:after {
     font-size: 0.8rem;
   }
 }
+#custom-html-g {
+  /* Type valid CSS here */
+}
+#custom-html-g div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-g p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
