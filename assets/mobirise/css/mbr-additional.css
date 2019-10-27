@@ -2233,7 +2233,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/-2000x1000.jpg");
+  background-image: url("../../../assets/images/2-2000x1000.jpg");
 }
 .cid-rCIioKDkxf {
   padding-top: 60px;
@@ -2472,4 +2472,7 @@ section.lazy-placeholder:after {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-rG8P0uXtsF {
+  background-image: url("../../../assets/images/background4.jpg");
 }
