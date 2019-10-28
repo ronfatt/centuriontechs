@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "博爵科技",
-    "currentPage": "page3.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2211,9 +2211,9 @@
         }
       ]
     },
-    "page3.html": {
+    "news.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Latest News and activity.",
         "title": "新闻活动",
         "order": 1
       },
